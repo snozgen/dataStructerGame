@@ -67,7 +67,7 @@ Her bir oyun hücresini temsil eder.
 ## 🧭 4. levels2 Sınıfı (Level 2)
 
 > 📸 Ekran görüntüsü için buraya görsel eklenecek  
-> `![Level 2](/images/level2.png)`
+> `![Level 2](images/level2.png)`
 
 ### 🎯 Oyun Mantığı
 
