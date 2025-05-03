@@ -6,8 +6,7 @@ Veri yapıları eğitimi için geliştirilen bu oyun, oyunculara hem eğlenceli 
 
 ## 🖼️ Giriş Ekranı
 
-> 📸 Ekran görüntüsü için buraya görsel eklenecek  
-> `![Giriş Ekranı](./images/giris.png)`
+
 
 Oyuncudan kullanıcı adı alır, oyun başlatılır veya skor geçmişi görüntülenir.
 
@@ -50,8 +49,6 @@ Her bir oyun hücresini temsil eder.
 
 ## 🕹️ 3. levels Sınıfı (Level 1)
 
-> 📸 Ekran görüntüsü için buraya görsel eklenecek  
-> `![Level 1](./images/level1.png)`
 
 ### 🎯 Oyun Mantığı
 
@@ -70,7 +67,7 @@ Her bir oyun hücresini temsil eder.
 ## 🧭 4. levels2 Sınıfı (Level 2)
 
 > 📸 Ekran görüntüsü için buraya görsel eklenecek  
-> `![Level 2](./images/level2.png)`
+> `![Level 2](/images/level2.png)`
 
 ### 🎯 Oyun Mantığı
 
