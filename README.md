@@ -109,7 +109,7 @@ Skorlar Binary Search Tree (BST) yapısında saklanır ve analiz edilir.
   Skorları sıralı gösterir ve en iyi/en kötü skoru belirtir.
 
 ---
-
+NOT!!!! GRUP ÖDEVİ OLMASINA RAĞMEN TEK BAŞIMA YAPTIM !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ## 🧠 6. append vs add
 
 - **append** → `StringBuilder` ile metin oluşturmak için.
@@ -119,4 +119,6 @@ Skorlar Binary Search Tree (BST) yapısında saklanır ve analiz edilir.
 sb.append("skor bilgisi");
 list.add("skor bilgisi");
 
-NOT!!!! GRUP ÖDEVİ OLMASINA RAĞMEN TEK BAŞIMA YAPTIM.
+
+
+
