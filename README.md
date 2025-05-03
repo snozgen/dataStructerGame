@@ -1,3 +1,4 @@
+
 # 🎮 Treasure Hunt Adventure
 
 Veri yapıları eğitimi için geliştirilen bu oyun, oyunculara hem eğlenceli hem de öğretici bir deneyim sunar. Oyunun temelinde **bağlı listeler** ve **Binary Search Tree (BST)** gibi yapılar yer alır. Oyun Java Swing arayüzüyle geliştirilmiş olup iki seviyeden oluşur.
@@ -117,3 +118,5 @@ Skorlar Binary Search Tree (BST) yapısında saklanır ve analiz edilir.
 ```java
 sb.append("skor bilgisi");
 list.add("skor bilgisi");
+
+NOT!!!! GRUP ÖDEVİ OLMASINA RAĞMEN TEK BAŞIMA YAPTIM.
