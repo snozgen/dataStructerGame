@@ -7,7 +7,7 @@ Veri yapıları eğitimi için geliştirilen bu oyun, oyunculara hem eğlenceli 
 ## 🖼️ Giriş Ekranı
 
 > 📸 Ekran görüntüsü için buraya görsel eklenecek  
-> `![Giriş Ekranı](images/giris.png)`
+> `![Giriş Ekranı](./images/giris.png)`
 
 Oyuncudan kullanıcı adı alır, oyun başlatılır veya skor geçmişi görüntülenir.
 
@@ -31,20 +31,6 @@ Skorları dosyaya kaydeder ve okur. Ayrıca skorları `scoreBST` yapısına yük
 
 ---
 
-## 🖼️ MainScreen
-
-> 📸 Ekran görüntüsü için buraya görsel eklenecek  
-> `![MainScreen](images/main_screen.png)`
-
-### 🔹 Önemli Metotlar
-
-- **btn_startActionPerformed:**  
-  Kullanıcı adını alır ve `levels` ekranını başlatır. Boş isim kontrolü yapılır.
-
-- **jButton1ActionPerformed:**  
-  Girilen kullanıcı adına göre skorlar okunur, BST'ye aktarılır ve analizli gösterim yapılır.
-
----
 
 ## 🧩 2. cellNode Sınıfı
 
@@ -65,7 +51,7 @@ Her bir oyun hücresini temsil eder.
 ## 🕹️ 3. levels Sınıfı (Level 1)
 
 > 📸 Ekran görüntüsü için buraya görsel eklenecek  
-> `![Level 1](images/level1.png)`
+> `![Level 1](./images/level1.png)`
 
 ### 🎯 Oyun Mantığı
 
@@ -84,7 +70,7 @@ Her bir oyun hücresini temsil eder.
 ## 🧭 4. levels2 Sınıfı (Level 2)
 
 > 📸 Ekran görüntüsü için buraya görsel eklenecek  
-> `![Level 2](images/level2.png)`
+> `![Level 2](./images/level2.png)`
 
 ### 🎯 Oyun Mantığı
 
