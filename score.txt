@@ -1,0 +1,12 @@
+sema,level1,50
+sema,level2,0
+defne,level1,35
+defne,level2,5
+sema,level1,35
+sema,level2,90
+defne,level1,40
+defne,level2,0
+sema,level1,15
+sema,level2,50
+defne,level1,40
+defne,level2,60
